@@ -9,3 +9,6 @@
 ## Created: Fall 2021
 ## Author: chelsea.tuohy@duke.edu (for ENV859)
 ##---------------------------------------------------------------------
+
+# Import modules
+import sys, os, arcpy
